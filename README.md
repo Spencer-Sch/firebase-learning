@@ -11,7 +11,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 - [Protect your data with Firestore Security Rules - codelab](#protect-your-data-with-firestore-security-rules---codelab)
 - [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling)
 - [Intermediate topics in Firebase Security Rules](#intermediate-topics-in-firebase-security-rules)
-- [Firestore Security Rules Pro Tips | Advanced Firebase/Firestore](#firestore-security-rules-pro-tips---advanced-firebase-firestore)
+- [Firestore Security Rules Pro Tips | Advanced Firebase/Firestore](#firestore-security-rules-pro-tips--advanced-firebase-firestore)
 
 ---
 
@@ -21,6 +21,8 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### Status: Complete!
 
+[Back to Top](#firebase-security-rules)
+
 ---
 
 ## Introduction to Firebase Security Rules
@@ -28,6 +30,8 @@ Tracking my progress while working through multiple resources about Firebase sec
 ### [Video Link](https://www.youtube.com/watch?v=QEuu9X9L-MU&list=PLl-K7zZEsYLn8h1NyU_OV6dX8mBhH2s_L)
 
 ### Status: to do...
+
+[Back to Top](#firebase-security-rules)
 
 ---
 
@@ -37,6 +41,8 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### Status: to do...
 
+[Back to Top](#firebase-security-rules)
+
 ---
 
 ## Cloud Firestore Data Modeling
@@ -44,6 +50,8 @@ Tracking my progress while working through multiple resources about Firebase sec
 ### [Video Link](https://www.youtube.com/watch?v=lW7DWV2jST0)
 
 ### Status: to do...
+
+[Back to Top](#firebase-security-rules)
 
 ---
 
@@ -53,6 +61,8 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### Status: to do...
 
+[Back to Top](#firebase-security-rules)
+
 ---
 
 ## Firestore Security Rules Pro Tips | Advanced Firebase/Firestore
@@ -60,3 +70,5 @@ Tracking my progress while working through multiple resources about Firebase sec
 ### [Video Link](https://www.youtube.com/watch?v=oHyTDT3V65U)
 
 ### Status: to do...
+
+[Back to Top](#firebase-security-rules)
