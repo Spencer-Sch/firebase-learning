@@ -11,7 +11,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 - [Protect your data with Firestore Security Rules - codelab](#protect-your-data-with-firestore-security-rules---codelab)
 - [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling)
 - [Intermediate topics in Firebase Security Rules](#intermediate-topics-in-firebase-security-rules)
-- [Firestore Security Rules Pro Tips | Advanced Firebase/Firestore](#firestore-security-rules-pro-tips--advanced-firebase-firestore)
+- [Firestore Security Rules Pro Tips | Advanced Firebase/Firestore](#firestore-security-rules-pro-tips--advanced-firebasefirestore)
 
 ---
 
