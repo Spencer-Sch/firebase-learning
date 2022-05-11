@@ -39,7 +39,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### [Site Link](https://firebase.google.com/codelabs/firebase-rules#0)
 
-### Status:
+### Status: Complete!
 
 - First rule written and test is passing
 - Second rule written and test is passing
@@ -47,6 +47,9 @@ Tracking my progress while working through multiple resources about Firebase sec
 - Fourth rule written and test is passing
 - Fifth rule written and test is passing
 - Sixth rule written and test is passing
+- Seventh rule written and test is passing
+- Eighth rule written and test is passing
+- Nineth rule written and test is passing
 
 [Back to Top](#firebase-security-rules)
 
