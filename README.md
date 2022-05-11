@@ -55,6 +55,16 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ---
 
+## Local Development with the Firebase Emulator Suite - codelab
+
+### [Site Link](https://firebase.google.com/codelabs/firebase-emulator#0)
+
+### Status: to do...
+
+[Back to Top](#firebase-security-rules)
+
+---
+
 ## Cloud Firestore Data Modeling
 
 ### [Video Link](https://www.youtube.com/watch?v=lW7DWV2jST0)
