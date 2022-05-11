@@ -42,6 +42,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 ### Status:
 
 - First rule written and test is passing
+- Second rule written and test is passing
 
 [Back to Top](#firebase-security-rules)
 
