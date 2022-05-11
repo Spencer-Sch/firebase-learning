@@ -45,6 +45,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 - Second rule written and test is passing
 - Third rule written and test is passing
 - Fourth rule written and test is passing
+- Fifth rule written and test is passing
 
 [Back to Top](#firebase-security-rules)
 
