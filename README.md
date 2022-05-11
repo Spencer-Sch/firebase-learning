@@ -39,7 +39,9 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### [Site Link](https://firebase.google.com/codelabs/firebase-rules#0)
 
-### Status: to do...
+### Status:
+
+- First rule written and test is passing
 
 [Back to Top](#firebase-security-rules)
 
