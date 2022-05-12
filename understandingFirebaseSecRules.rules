@@ -1,0 +1,49 @@
+// Notes and code along for Video 2 Understanding Firebase Security Rules video playlist
+
+///////////////////////////////////////////////////////////
+// Video 2 - Matching Documents in Cloud Firestore (Part 1)
+
+// NOTE: by default, all access is denied when being accessed by a mobile or web client.
+
+// Required boilerplate for Firestore Rules:
+
+service cloud firestore {
+  match /databases/{database}/documents { // this line matched the "root" document in the database of the firestore project. There is only one database per project.
+    match /users/{uid} { // matching users collection and {uid} is a wildcard that corresponds to any users document
+      allow read;
+      allow write:
+        if request.auth.uid == uid; // this allows write if the incoming request user uid = the uid of the document trying to be accessed. this uid will compare against the {uid} from the match line above.
+    }
+
+    match /users/{uid}/photos/{photoId} { // this targets a sub-collection that is nested inside of a users document.
+      // In here:
+      // uid = "sparky"
+      // photoId = "abs123"
+      allow read, write: // allows users to read and write only thier own photos.
+        if request.auth.uid == uid;
+    }
+
+    // ALTERNATIVE WAY TO NEST RULES TO MIRROR THE NESTING OF SUB-DOCUMENTS
+
+    match /users/{uid} {
+      allow read;
+      allow write:
+        if request.auth.uid == uid;
+
+      match /photos/{photoId} { // this nested match functions the same as the above /users/{uid}/photos/{photoId}
+        // In here:
+        // uid = "sparky"
+        // photoId = "abs123"
+        allow read, write:
+          if request.auth.uid == uid;
+      }
+    }
+  }
+}
+///////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////
+// Video 3 - Matching Documents in Cloud Firestore (Part 2)
+
+
+///////////////////////////////////////////////////////////
