@@ -44,6 +44,57 @@ service cloud firestore {
 
 ///////////////////////////////////////////////////////////
 // Video 3 - Matching Documents in Cloud Firestore (Part 2)
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} { // the {document=**} matches ALL documents and is called a "Glob" rule
+      allow read, write;
+    }
 
+    match /users/{document=**} { // this is another "glob" rule that matches all user documents and all documents in all sub-collections
+      allow read;
+    }
+  }
+}
 
+// difference between rules version 1 and 2
+rules_version = "1";
+// - Globs must match at least one or more path segments
+// - Only effective at the end of the match path
+
+rules_version = "2";
+// - Globs can match zero or more path segments
+// - Effective anywhere in the match path
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{uid}/{document=**} {
+      // uid = "sparky"
+      // document contains an EMPTY PATH
+      allow read;
+      allow write: if request.auth.uid == uid;
+    }
+
+  }
+}
+
+//////////////////
+// writing a rule that will limit access to all "history" sub-collections on all user collections:
+//
+// /users/sparky/history
+//                  /abc123 = { act: "click" }
+//                  /xyz789 = { act: "swipe" }
+// /users/switch/history
+//                  /foo000 = { act: "steal" }
+//                  /bar777 = { act: "pick" }
+
+// the goal of the rule is to say only "click" type actions can be querried by
+// firestore.collectionGroup("history").get(); // this will fail to pass the security rule below.
+// firestore.collectionGroup("history")
+//  .where("act", "==", "click").get(); // this will pass
+
+rules_version = "2";
+match /{prefix=**}/history/{id} { // glob path "prefix" at the beginning of the path and normal path id at the end
+  allow read: if resource.data.act = "click";
+}
 ///////////////////////////////////////////////////////////
