@@ -32,7 +32,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### Status:
 
-- Video 3 of 5 complete
+- Video 4 of 5 complete
 
 [Back to Top](#firebase-security-rules)
 

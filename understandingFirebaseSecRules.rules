@@ -98,3 +98,47 @@ match /{prefix=**}/history/{id} { // glob path "prefix" at the beginning of the 
   allow read: if resource.data.act = "click";
 }
 ///////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////
+// Video 4 - Granular permissions for reading and writing documents in Cloud Firestore
+
+match /users/{uid} {
+  allow read;
+  allow update
+    if request.auth.uid == uid; // user can update but not create or delete
+}
+
+// allow write == allow create, update, delete
+
+// allow read == allow get, list
+
+// allow get means a user is allowed to request a single matching document using a .get() operation on a document reference
+// with get permission:
+// usersRef = db.collection("users")
+// usersRef.document(uid).get() // this will succeed
+// usersRef.get() // this will fail
+// queries fail if only get access is allowed.
+//
+// allow list means a user is allowed to query documents using a .get() operation on a document reference
+// with list permission:
+// usersRef = db.collection("users")
+// usersRef.get() // this will succeed
+// usersRef.document(uid).get() // this will fail
+// specific get requests will fail if only list access is allowed.
+
+// TAKEAWAY:
+// by denying list permission in the above example you prevent users from pulling down other users information.
+// this can also help to prevent user requests from pulling down large amounts of data using a query.
+
+// rules can be written to limit query requests
+
+match /users/{id} {
+  allow list: if request.query.limit <= 20;
+}
+
+// usersQuery = db.collection("users")
+//    .limit(20)
+//
+// usersQuery.get() // the limit of 20 is valid
+
+///////////////////////////////////////////////////////////
