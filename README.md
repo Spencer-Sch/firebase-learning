@@ -26,7 +26,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ---
 
-## Introduction to Firebase Security Rules
+## Understanding Firebase Security Rules
 
 ### [Video Link](https://www.youtube.com/watch?v=QEuu9X9L-MU&list=PLl-K7zZEsYLn8h1NyU_OV6dX8mBhH2s_L)
 
