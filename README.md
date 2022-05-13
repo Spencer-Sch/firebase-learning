@@ -30,9 +30,9 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### [Video Link](https://www.youtube.com/watch?v=QEuu9X9L-MU&list=PLl-K7zZEsYLn8h1NyU_OV6dX8mBhH2s_L)
 
-### Status:
+### Status: Complete!
 
-- Video 4 of 5 complete
+- Video 5 of 5 complete
 
 [Back to Top](#firebase-security-rules)
 
