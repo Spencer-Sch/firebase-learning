@@ -72,7 +72,9 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ### [Video Link](https://www.youtube.com/watch?v=lW7DWV2jST0)
 
-### Status: to do...
+### Status:
+
+watched 00:00 - 18:48 of 40:37
 
 [Back to Top](#firebase-security-rules)
 
