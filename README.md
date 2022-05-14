@@ -8,16 +8,16 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 #### Security Rules
 
-- [Security Rules Overivew](#security-rules-overivew) ✅
-- [Understanding Firebase Security Rules](#understanding-firebase-security-rules) ✅
-- [Protect your data with Firestore Security Rules - codelab](#protect-your-data-with-firestore-security-rules---codelab) ✅
+- [Security Rules Overivew](#security-rules-overivew-) ✅
+- [Understanding Firebase Security Rules](#understanding-firebase-security-rules-) ✅
+- [Protect your data with Firestore Security Rules - codelab](#protect-your-data-with-firestore-security-rules---codelab-) ✅
 - [Local Development with the Firebase Emulator Suite - codelab](#local-development-with-the-firebase-emulator-suite---codelab)
 - [Intermediate topics in Firebase Security Rules](#intermediate-topics-in-firebase-security-rules)
 - [Firestore Security Rules Pro Tips | Advanced Firebase/Firestore](#firestore-security-rules-pro-tips--advanced-firebasefirestore)
 
 #### Cloud Firestore
 
-- [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling) ✅
+- [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling-) ✅
 - [Get to know Cloud Firestore](#get-to-know-cloud-firestore)
 
 #### Cloud Functions
@@ -34,7 +34,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 #### Status: Complete!
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -46,7 +46,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 - Video 5 of 5 complete
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -66,7 +66,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 - Eighth rule written and test is passing
 - Nineth rule written and test is passing
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -76,7 +76,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 #### Status: to do...
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -86,7 +86,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 #### Status: to do...
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -96,7 +96,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 #### Status: to do...
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -110,7 +110,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 watched 00:00 - 40:37 of 40:37
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -120,7 +120,7 @@ watched 00:00 - 40:37 of 40:37
 
 #### Status: to do...
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
 
 ---
 
@@ -132,4 +132,4 @@ watched 00:00 - 40:37 of 40:37
 
 #### Status: to do...
 
-[Back to Top](#firebase-security-rules)
+[Back to Top](#firebase-learning)
