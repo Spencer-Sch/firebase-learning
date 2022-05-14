@@ -1,36 +1,48 @@
-# Firebase Security Rules
+# Firebase Learning
 
-Tracking my progress while working through multiple resources about Firebase security rules
+Tracking my progress while working through multiple resources about Firebase security rules, Cloud Firestore, Cloud Functions, and maybe more.
 
 ---
 
 ### Table of Contents
 
-- [Security Rules Overivew](#security-rules-overivew)
-- [Introduction to Firebase Security Rules](#introduction-to-firebase-security-rules)
-- [Protect your data with Firestore Security Rules - codelab](#protect-your-data-with-firestore-security-rules---codelab)
+#### Security Rules
+
+- [Security Rules Overivew](#security-rules-overivew) ✅
+- [Understanding Firebase Security Rules](#understanding-firebase-security-rules) ✅
+- [Protect your data with Firestore Security Rules - codelab](#protect-your-data-with-firestore-security-rules---codelab) ✅
 - [Local Development with the Firebase Emulator Suite - codelab](#local-development-with-the-firebase-emulator-suite---codelab)
-- [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling)
 - [Intermediate topics in Firebase Security Rules](#intermediate-topics-in-firebase-security-rules)
 - [Firestore Security Rules Pro Tips | Advanced Firebase/Firestore](#firestore-security-rules-pro-tips--advanced-firebasefirestore)
 
+#### Cloud Firestore
+
+- [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling) ✅
+- [Get to know Cloud Firestore](#get-to-know-cloud-firestore)
+
+#### Cloud Functions
+
+- [Understanding Cloud Functions for Firebase](#understanding-cloud-functions-for-firebase)
+
 ---
 
-## Security Rules Overivew
+## Security Rules Resources
 
-### [Video Link](https://www.youtube.com/watch?v=TglPc74M3DM)
+### Security Rules Overivew ✅
 
-### Status: Complete!
+#### [Video Link](https://www.youtube.com/watch?v=TglPc74M3DM)
+
+#### Status: Complete!
 
 [Back to Top](#firebase-security-rules)
 
 ---
 
-## Understanding Firebase Security Rules
+### Understanding Firebase Security Rules ✅
 
-### [Video Link](https://www.youtube.com/watch?v=QEuu9X9L-MU&list=PLl-K7zZEsYLn8h1NyU_OV6dX8mBhH2s_L)
+#### [Video Link](https://www.youtube.com/watch?v=QEuu9X9L-MU&list=PLl-K7zZEsYLn8h1NyU_OV6dX8mBhH2s_L)
 
-### Status: Complete!
+#### Status: Complete!
 
 - Video 5 of 5 complete
 
@@ -38,11 +50,11 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ---
 
-## Protect your data with Firestore Security Rules - codelab
+### Protect your data with Firestore Security Rules - codelab ✅
 
-### [Site Link](https://firebase.google.com/codelabs/firebase-rules#0)
+#### [Site Link](https://firebase.google.com/codelabs/firebase-rules#0)
 
-### Status: Complete!
+#### Status: Complete!
 
 - First rule written and test is passing
 - Second rule written and test is passing
@@ -58,21 +70,43 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ---
 
-## Local Development with the Firebase Emulator Suite - codelab
+### Local Development with the Firebase Emulator Suite - codelab
 
-### [Site Link](https://firebase.google.com/codelabs/firebase-emulator#0)
+#### [Site Link](https://firebase.google.com/codelabs/firebase-emulator#0)
 
-### Status: to do...
+#### Status: to do...
 
 [Back to Top](#firebase-security-rules)
 
 ---
 
-## Cloud Firestore Data Modeling
+### Intermediate topics in Firebase Security Rules
 
-### [Video Link](https://www.youtube.com/watch?v=lW7DWV2jST0)
+#### [Video Link](https://www.youtube.com/watch?v=8Mzb9zmnbJs)
 
-### Status: Complete!
+#### Status: to do...
+
+[Back to Top](#firebase-security-rules)
+
+---
+
+### Firestore Security Rules Pro Tips | Advanced Firebase/Firestore
+
+#### [Video Link](https://www.youtube.com/watch?v=oHyTDT3V65U)
+
+#### Status: to do...
+
+[Back to Top](#firebase-security-rules)
+
+---
+
+## Cloud Firestore Resources
+
+### Cloud Firestore Data Modeling ✅
+
+#### [Video Link](https://www.youtube.com/watch?v=lW7DWV2jST0)
+
+#### Status: Complete!
 
 watched 00:00 - 40:37 of 40:37
 
@@ -80,20 +114,22 @@ watched 00:00 - 40:37 of 40:37
 
 ---
 
-## Intermediate topics in Firebase Security Rules
+### Get to know Cloud Firestore
 
-### [Video Link](https://www.youtube.com/watch?v=8Mzb9zmnbJs)
+#### [Video Link](https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ)
 
-### Status: to do...
+#### Status: to do...
 
 [Back to Top](#firebase-security-rules)
 
 ---
 
-## Firestore Security Rules Pro Tips | Advanced Firebase/Firestore
+## Cloud Functions Resources
 
-### [Video Link](https://www.youtube.com/watch?v=oHyTDT3V65U)
+### Understanding Functions for Firebase
 
-### Status: to do...
+#### [Video Link](https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ)
+
+#### Status: to do...
 
 [Back to Top](#firebase-security-rules)
