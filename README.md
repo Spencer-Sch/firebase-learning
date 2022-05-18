@@ -121,6 +121,7 @@ watched 00:00 - 40:37 of 40:37
 #### Status:
 
 - Video #1: What is a NoSQL Database? How is Cloud Firestore structured? - complete
+- Video #2: How do queries work in Cloud Firestore? - complete
 
 [Back to Top](#firebase-learning)
 
