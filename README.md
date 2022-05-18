@@ -118,7 +118,9 @@ watched 00:00 - 40:37 of 40:37
 
 #### [Video Link](https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ)
 
-#### Status: to do...
+#### Status:
+
+- Video #1: What is a NoSQL Database? How is Cloud Firestore structured? - complete
 
 [Back to Top](#firebase-learning)
 
