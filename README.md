@@ -123,6 +123,7 @@ watched 00:00 - 40:37 of 40:37
 - Video #1: What is a NoSQL Database? How is Cloud Firestore structured? - complete
 - Video #2: How do queries work in Cloud Firestore? - complete
 - Video #3: Cloud Firestore Pricing - complete
+- Video #4: Maps, Arrays and Subcollections, Oh My! - complete
 
 [Back to Top](#firebase-learning)
 
