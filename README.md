@@ -124,6 +124,7 @@ watched 00:00 - 40:37 of 40:37
 - Video #2: How do queries work in Cloud Firestore? - complete
 - Video #3: Cloud Firestore Pricing - complete
 - Video #4: Maps, Arrays and Subcollections, Oh My! - complete
+- Video #5: How to Structure Your Data - complete
 
 [Back to Top](#firebase-learning)
 
