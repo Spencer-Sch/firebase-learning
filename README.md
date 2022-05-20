@@ -24,6 +24,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 - [Understanding Cloud Functions for Firebase](#understanding-cloud-functions-for-firebase)
 - [Cloud Functions for Firebase - Tutorials](#cloud-functions-for-firebase---tutorials)
+- [SQL-like joins in Cloud Firestore | Firebase Semi-Live](#sql---like-joins-in-cloud-firestore--firebase-semi---live)
 
 ---
 
