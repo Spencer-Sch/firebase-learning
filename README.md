@@ -18,7 +18,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 #### Cloud Firestore
 
 - [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling-) ✅
-- [Get to know Cloud Firestore](#get-to-know-cloud-firestore)
+- [Get to know Cloud Firestore](#get-to-know-cloud-firestore-) ✅
 
 #### Cloud Functions
 
@@ -116,11 +116,11 @@ watched 00:00 - 40:37 of 40:37
 
 ---
 
-### Get to know Cloud Firestore
+### Get to know Cloud Firestore ✅
 
 #### [Video Link](https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ)
 
-#### Status:
+#### Status: Complete!
 
 - Video #1: What is a NoSQL Database? How is Cloud Firestore structured? - complete
 - Video #2: How do queries work in Cloud Firestore? - complete
