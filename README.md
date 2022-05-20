@@ -19,9 +19,11 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 - [Cloud Firestore Data Modeling](#cloud-firestore-data-modeling-) ✅
 - [Get to know Cloud Firestore](#get-to-know-cloud-firestore-) ✅
+- [Firebase Web Codelab](#firebase-web-codelab)
 
 #### Cloud Functions
 
+- [Cloud Functions for Firebase - Codelab](#cloud-functions-for-firebase---codelab)
 - [Understanding Cloud Functions for Firebase](#understanding-cloud-functions-for-firebase)
 - [Cloud Functions for Firebase - Tutorials](#cloud-functions-for-firebase---tutorials)
 - [SQL-like joins in Cloud Firestore | Firebase Semi-Live](#sql-like-joins-in-cloud-firestore--firebase-semi-live)
@@ -139,7 +141,35 @@ watched 00:00 - 40:37 of 40:37
 
 ---
 
+### Firebase Web Codelab
+
+#### [Link](https://firebase.google.com/codelabs/firebase-web#0)
+
+#### Status: to do...
+
+#### Notes:
+
+- this code lab is a pre-req for the [Cloud Functions for Firebase - Codelab](#cloud-functions-for-firebase---codelab)
+
+[Back to Top](#firebase-learning)
+
+---
+
 ## Cloud Functions Resources
+
+### Cloud Functions for Firebase - Codelab
+
+#### [Link](https://firebase.google.com/codelabs/firebase-cloud-functions#0)
+
+#### Status: to do...
+
+#### Notes:
+
+- [Firebase Web Codelab](#firebase-web-codelab) is a pre-req for this codelab
+
+[Back to Top](#firebase-learning)
+
+---
 
 ### Understanding Cloud Functions for Firebase
 
@@ -154,6 +184,8 @@ watched 00:00 - 40:37 of 40:37
 
 [Back to Top](#firebase-learning)
 
+---
+
 ### Cloud Functions for Firebase - Tutorials
 
 #### [Video Link](https://www.youtube.com/playlist?list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM)
@@ -161,6 +193,8 @@ watched 00:00 - 40:37 of 40:37
 #### Status: to do...
 
 [Back to Top](#firebase-learning)
+
+---
 
 ### SQL-like joins in Cloud Firestore | Firebase Semi-Live
 
