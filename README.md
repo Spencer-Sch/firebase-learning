@@ -145,9 +145,19 @@ watched 00:00 - 40:37 of 40:37
 
 #### Status: to do...
 
+[Back to Top](#firebase-learning)
+
 ### Cloud Functions for Firebase - Tutorials
 
 #### [Video Link](https://www.youtube.com/playlist?list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM)
+
+#### Status: to do...
+
+[Back to Top](#firebase-learning)
+
+### SQL-like joins in Cloud Firestore | Firebase Semi-Live
+
+#### [Video Link](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnb2sHdA_8ukNwIyp5jo-es)
 
 #### Status: to do...
 
