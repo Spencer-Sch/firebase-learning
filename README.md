@@ -23,6 +23,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 #### Cloud Functions
 
 - [Understanding Cloud Functions for Firebase](#understanding-cloud-functions-for-firebase)
+- [Cloud Functions for Firebase - Tutorials](#cloud-functions-for-firebase---tutorials)
 
 ---
 
@@ -137,9 +138,15 @@ watched 00:00 - 40:37 of 40:37
 
 ## Cloud Functions Resources
 
-### Understanding Functions for Firebase
+### Understanding Cloud Functions for Firebase
 
-#### [Video Link](https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ)
+#### [Video Link](https://www.youtube.com/playlist?list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM)
+
+#### Status: to do...
+
+### Cloud Functions for Firebase - Tutorials
+
+#### [Video Link](https://www.youtube.com/playlist?list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM)
 
 #### Status: to do...
 
