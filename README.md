@@ -190,7 +190,9 @@ watched 00:00 - 40:37 of 40:37
 
 #### [Video Link](https://www.youtube.com/playlist?list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM)
 
-#### Status: to do...
+#### Status:
+
+- Video #1: Getting Started with Cloud Functions for Firebase using TypeScript - complete!
 
 [Back to Top](#firebase-learning)
 
