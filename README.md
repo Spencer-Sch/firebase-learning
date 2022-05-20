@@ -133,6 +133,7 @@ watched 00:00 - 40:37 of 40:37
 - Video #9: How do I Enable Offline Support? - complete
 - Video #10: To Realtime or Not? - complete
 - Video #11: How do Cloud Functions work? - complete
+- Video #12: 5 uses for Cloud Functions - complete
 
 [Back to Top](#firebase-learning)
 
