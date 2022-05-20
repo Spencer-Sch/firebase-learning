@@ -147,6 +147,11 @@ watched 00:00 - 40:37 of 40:37
 
 #### Status: to do...
 
+#### Notes:
+
+- This series is meant for advanced Cloud Function optimization.
+- The first video is actually [Function Scaling and Isolation With Cloud Functions for Firebase](https://www.youtube.com/watch?v=rCpKxpIMg6o)
+
 [Back to Top](#firebase-learning)
 
 ### Cloud Functions for Firebase - Tutorials
