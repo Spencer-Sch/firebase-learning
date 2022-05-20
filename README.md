@@ -129,6 +129,7 @@ watched 00:00 - 40:37 of 40:37
 - Video #7: How Do I Paginate My Data? - complete
 - Video #8: How do Transactions Work? - complete
 - Video #9: How do I Enable Offline Support? - complete
+- Video #10: To Realtime or Not? - complete
 
 [Back to Top](#firebase-learning)
 
