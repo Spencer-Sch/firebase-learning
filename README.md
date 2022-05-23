@@ -196,6 +196,7 @@ watched 00:00 - 40:37 of 40:37
 - Video #2: Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - complete!
 - Video #3: Learn JavaScript Promises (Pt.2) with a Firestore Trigger in Cloud Functions - complete!
 - Video #4: Learn JavaScript Promises (Pt.3) for sequential and parallel work in Cloud Functions - complete!
+- Video #5: How does async/await work with TypeScript and ECMAScript 2017? - complete!
 
 [Back to Top](#firebase-learning)
 
