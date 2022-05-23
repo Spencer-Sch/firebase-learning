@@ -194,6 +194,7 @@ watched 00:00 - 40:37 of 40:37
 
 - Video #1: Getting Started with Cloud Functions for Firebase using TypeScript - complete!
 - Video #2: Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - complete!
+- Video #3: Learn JavaScript Promises (Pt.2) with a Firestore Trigger in Cloud Functions - complete!
 
 [Back to Top](#firebase-learning)
 
