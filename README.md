@@ -84,6 +84,20 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ---
 
+### Unit testing security rules with the Firebase Emulator Suite
+
+#### [video Link](https://www.youtube.com/watch?v=VDulvfBpzZE)
+
+#### Status:
+
+watched 00:00 - 17:45 of 31:23.
+Generally following, ran into issue working with async/await.
+Looked at documentation I'm seeing that the video syntax is out of date. Need to read and learn the current syntax for setting up the test enviroment.
+
+[Back to Top](#firebase-learning)
+
+---
+
 ### Intermediate topics in Firebase Security Rules
 
 #### [Video Link](https://www.youtube.com/watch?v=8Mzb9zmnbJs)
