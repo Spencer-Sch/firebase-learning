@@ -12,5 +12,10 @@ service cloud.firestore {
     match /users/{userId} {
       allow write: if (request.auth.uid == userId);
     }
+
+    match /posts/{postId} {
+      allow read: if (resource.data.visibility == "public") ||
+        (resource.data.authorId == request.auth.uid);
+    }
   }
 }

@@ -4,7 +4,8 @@
   "description": "Unit testing for My Social App",
   "main": "test.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:rules": "jest test --detectOpenHandles --forceExit"
   },
   "author": "Spencer Schoeneman",
   "license": "ISC",

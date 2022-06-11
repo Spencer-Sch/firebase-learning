@@ -12,6 +12,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 - [Understanding Firebase Security Rules](#understanding-firebase-security-rules-) ✅
 - [Protect your data with Firestore Security Rules - codelab](#protect-your-data-with-firestore-security-rules---codelab-) ✅
 - [Local Development with the Firebase Emulator Suite - codelab](#local-development-with-the-firebase-emulator-suite---codelab)
+- [Unit testing security rules with the Firebase Emulator Suite](#unit-testing-security-rules-with-the-firebase-emulator-suite-) ✅
 - [Intermediate topics in Firebase Security Rules](#intermediate-topics-in-firebase-security-rules)
 - [Firestore Security Rules Pro Tips | Advanced Firebase/Firestore](#firestore-security-rules-pro-tips--advanced-firebasefirestore)
 
@@ -84,7 +85,7 @@ Tracking my progress while working through multiple resources about Firebase sec
 
 ---
 
-### Unit testing security rules with the Firebase Emulator Suite
+### Unit testing security rules with the Firebase Emulator Suite ✅
 
 #### [video Link](https://www.youtube.com/watch?v=VDulvfBpzZE)
 
@@ -93,6 +94,10 @@ Tracking my progress while working through multiple resources about Firebase sec
 watched 00:00 - 17:45 of 31:23.
 Generally following, ran into issue working with async/await.
 Looked at documentation I'm seeing that the video syntax is out of date. Need to read and learn the current syntax for setting up the test enviroment.
+
+watched 17:45 - 31:23 of 31:23.
+Found solution to above issue with async/await not exiting properly after tests.
+After being unable to find any helpful guides/tutorials for learning new v9 firebase emulator testing syntax I have decided to push forward with v8.
 
 [Back to Top](#firebase-learning)
 
